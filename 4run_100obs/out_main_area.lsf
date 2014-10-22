@@ -1,0 +1,32 @@
+Sender: LSF System <lsfadmin@n250>
+Subject: Job 50292: <main_area> Done
+
+Job <main_area> was submitted from host <n000> by user <fsqueeze> in cluster <F4000>.
+Job was executed on host(s) <n250>, in queue <debug>, as user <fsqueeze> in cluster <F4000>.
+</cvfs01/disk5/fsqueeze> was used as the home directory.
+</cvfs01/disk5/fsqueeze/ff/0921/8CCSM4/4rmv_truth_part> was used as the working directory.
+Started at Wed Oct 22 20:49:29 2014
+Results reported at Wed Oct 22 20:49:34 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./main_area
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      4.56 sec.
+    Max Memory :         2 MB
+    Max Swap   :        27 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) follows:
+
+ file is /cvfs01/disk5/fsqueeze/ff/0921/8CCSM4/CCSM4_trop_1deg_501yr.nc
+ The truth year is            5
