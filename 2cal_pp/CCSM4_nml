@@ -49,5 +49,5 @@ count_nino34(2)=501
 
 EPyrs = 5,17,38,52,134,158,173,188,220,237,255,279,300,334,381,407,414,431,447,467
   
-path="./CCSM4_trop_1deg_501yr.nc"
+path="/cvfs01/disk5/fsqueeze/ff/0921/8CCSM4/CCSM4_trop_1deg_501yr.nc"
 /
